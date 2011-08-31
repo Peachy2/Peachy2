@@ -1,0 +1,9 @@
+[submodule "vendor/peachy/vendor/sfYaml"]
+	path = vendor/peachy/vendor/sfYaml
+	url = git://github.com/fabpot/yaml.git
+[submodule "vendor/peachy/vendor/sfEventDispatcher"]
+	path = vendor/peachy/vendor/sfEventDispatcher
+	url = git://github.com/fabpot/event-dispatcher.git
+[submodule "vendor/peachy/plugins/email/vendor/swiftmailer"]
+	path = vendor/peachy/plugins/email/vendor/swiftmailer
+	url = git://github.com/swiftmailer/swiftmailer.git
